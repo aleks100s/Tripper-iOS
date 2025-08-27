@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "yandex-maps-logo.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
