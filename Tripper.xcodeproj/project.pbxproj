@@ -86,11 +86,12 @@
 				};
 			};
 			buildConfigurationList = 27641F082E5F7411007C8FBB /* Build configuration list for PBXProject "Tripper" */;
-			developmentRegion = en;
+			developmentRegion = ru;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
+				ru,
 			);
 			mainGroup = 27641F042E5F7411007C8FBB;
 			minimizedProjectReferenceProxies = 1;
